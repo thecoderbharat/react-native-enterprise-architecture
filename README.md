@@ -1,9 +1,11 @@
-## App Configuration (From line no. 12)
-## React Native Enterprise Architecture (From line no. 110)
-## High Level Architecture (From line no. 125)
-## Folder Structure (From line no. 142)
-## Enterprise Principles (From line no. 155)
-## Performance Strategies (From line no. 171)
+# This Doc contains:
+
+## App Configuration
+## React Native Enterprise Architecture
+## High Level Architecture
+## Folder Structure
+## Enterprise Principles
+## Performance Strategies 
 
 
 
