@@ -1,3 +1,4 @@
+> **⭐ If this project helps you, please consider giving it a star.**
 # This Doc contains:
 
 ## App Configuration
